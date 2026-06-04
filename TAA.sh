@@ -1,0 +1,4 @@
+#!/bin/bash
+export OTX_API_KEY="df6d75a23efabce399e6dc3e73feb153a44dbec251958095e20df1902eb2037c"
+export VT_API_KEY="16347731a6c88ff8c64fa526c54fcce9e998f36ddc6a458851740d5b33d690cd"
+python3 Threat-Alert-Action.py
